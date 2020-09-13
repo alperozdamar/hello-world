@@ -2,4 +2,4 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
 
-<h2> Deploying into Container using Ansible through Jenkins! </h2>
+<h2> Deploying into Container using Ansible  playbooks through Jenkins! </h2>
